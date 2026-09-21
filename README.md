@@ -5,8 +5,6 @@ menggunakan model kekekalan hiperbolik (Armbruster–Degond–Ringhofer) dan
 kuantifikasi ketidakpastian berbasis Monte-Carlo.
 
 Repositori ini berisi:
-
-- Proposal S2 dalam LaTeX (folder `proposal/`, cover → Bab 3).
 - Solver numerik model ADR dalam Python (folder `src/`).
 - Eksperimen verifikasi + plot hasil (folder `results/`).
 
