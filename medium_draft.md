@@ -6,7 +6,7 @@
 
 ## Sedikit cerita, sebelum masuk ke matematika
 
-Tahun 2021 aku sempat hampir mendaftar S2 Fisika Teoretis di ITERA. Judul proposalnya panjang dan agak sok penting, kira-kira "Analisis Penggunaan CFD untuk Pemetaan dan Rekayasa Lalu Lintas". Aku bikin sampai cover, lalu keburu dapat kerja dan proposalnya masuk laci. Selesai.
+Tahun 2021 aku sempat hampir mendaftar S2 Fisika Teoretis di salah satu kampus, entah kampus S1-ku dulu atau kampus yang berkali-kali aku incar saat S1 namun urung didapatkan. Judul proposalnya panjang dan agak sok penting, kira-kira "Analisis Penggunaan CFD untuk Pemetaan dan Rekayasa Lalu Lintas". Aku bikin sampai cover, lalu keburu dapat kerja dan proposalnya masuk laci. Selesai.
 
 Lima tahun kemudian, di tengah kerjaan sehari-hari sebagai analis BI, aku iseng buka file lama itu. Tiba-tiba pengin coba lagi, tapi dengan sudut pandang yang lebih dekat ke kerjaan sekarang. Rantai pasok, bukan lalu lintas. Bottleneck produksi, bukan macet tol. Meskipun secara matematika, jujurnya, dua hal itu adalah adik-kakak.
 
@@ -129,4 +129,4 @@ Kalau ada yang ingin ngobrol soal pemodelan numerik, rantai pasok, atau soal ngo
 
 ---
 
-*Ditulis oleh Kurnia Andre Febrian, bekas anak Fisika Teoretis ITERA yang sekarang kerja di dunia BI. Solver dan plotnya dibangun dengan Python, NumPy, dan Matplotlib. Bagian iterasi cepatnya dibantu Hermes Agent (buatan Nous Research).*
+*Ditulis oleh Kurnia Andre Febrian, alumnus Fisika Teoretis yang sekarang berlabuh di dunia BI. Solver dan plotnya dibangun dengan Python, NumPy, dan Matplotlib. Bagian iterasi cepatnya dibantu Hermes Agent (buatan Nous Research).*
