@@ -35,7 +35,6 @@ supply-chain-research/
 │   ├── adr_model.py       # solver deterministik (fluks Godunov, CFL)
 │   └── experiments.py     # 4 eksperimen verifikasi
 ├── results/               # plot PNG hasil eksperimen
-├── proposal/              # dokumen LaTeX (opsional, mengikuti PDF proposal)
 ├── requirements.txt
 └── README.md
 ```
